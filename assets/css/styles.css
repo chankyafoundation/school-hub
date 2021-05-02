@@ -435,18 +435,7 @@ a {
       .home .home-content .register-container:hover .register-header {
         -webkit-transform: scale(1.04) translateY(-4px);
                 transform: scale(1.04) translateY(-4px); }
-  .home:before {
-    content: '';
-    background-image: url(/assets/img/school-1.jpg);
-    background-attachment: fixed;
-    background-size: cover;
-    position: absolute;
-    width: 100%;
-    height: 600px;
-    top: 0;
-    left: 0;
-    right: 0;
-    opacity: 0.5; }
+
 
 .about-us .upcoming-item {
   min-height: 150px;
