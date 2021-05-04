@@ -333,7 +333,7 @@ a {
 /* SECTIONS */
 .home {
   min-height: 600px;
-  background: black;
+  background: white;
   position: relative; }
   .home .navbar {
     position: absolute;
@@ -528,6 +528,12 @@ a {
 .courses .courses-carrousel .next-arrow {
   right: 35px; }
 
+.gallery {
+
+    
+}
+  
+  
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
