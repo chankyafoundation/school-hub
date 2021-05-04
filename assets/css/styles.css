@@ -529,8 +529,7 @@ a {
   right: 35px; }
 
 .gallery {
-
-    
+transition: linear 0.3s all;
 }
   
   
