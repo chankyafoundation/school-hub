@@ -512,7 +512,7 @@ a {
 .courses .courses-carrousel .courses-slide .courses-item {
   max-width: 240px; }
   .courses .courses-carrousel .courses-slide .courses-item .item-img {
-    width: 235px;
+    width: 270px;
     height: 300px; }
     .courses .courses-carrousel .courses-slide .courses-item .item-img img {
       width: 100%;
@@ -529,7 +529,7 @@ a {
   right: 35px; }
 
 .gallery {
-transition: linear 0.3s all;
+transition: linear 25s all;
 }
   
   
