@@ -332,9 +332,9 @@ a {
 
 /* SECTIONS */
 .home {
-  min-height: 600px;
   background: white;
-  position: relative; }
+  position: relative;
+  margin-bottom: 0; }
   .home .navbar {
     position: absolute;
     top: 65px;
