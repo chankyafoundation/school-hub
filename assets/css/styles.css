@@ -193,8 +193,11 @@ a {
     margin-right: 20px; }
   .navbar.navbar-top-fixed .link-inverse {
     padding-left: 20px;
-    padding-right: 10px;
-    color: #b9bbbc; }
+    padding-right: 20px;
+    color: #b9bbbc;
+    text-align: center;
+    align-content: center;
+    font-size:15px; }
 
 .footer {
   position: relative; }
@@ -279,7 +282,9 @@ a {
   z-index: 9000; }
   .header .header-menu.header-menu-fixed {
     top: 0;
-    background: #0F1527; }
+    background: #0F1527;
+    text-align: center;
+    align-content: center; }
 
 .section {
   padding: 50px 0; }
@@ -358,7 +363,7 @@ a {
       z-index: -1; }
     .home .navbar .navbar-brand {
       color: #fff;
-      font-size: 20px; }
+      font-size: 18px; }
     .home .navbar .navbar-collapse {
       background-color: #0F1527;
       margin-left: -14px;
