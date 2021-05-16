@@ -357,7 +357,8 @@ a {
       opacity: 0.6;
       z-index: -1; }
     .home .navbar .navbar-brand {
-      color: #fff; }
+      color: #fff;
+      font-size: 20px; }
     .home .navbar .navbar-collapse {
       background-color: #0F1527;
       margin-left: -14px;
