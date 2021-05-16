@@ -286,6 +286,7 @@ a {
 
 .vertical-slide-container {
   position: relative;
+  min-height:780px;
   padding: 30px 0; }
   .vertical-slide-container .top-arrow, .vertical-slide-container .bottom-arrow {
     position: absolute;
@@ -332,9 +333,9 @@ a {
 
 /* SECTIONS */
 .home {
+  min-height: 600px;
   background: white;
-  position: relative;
-  margin-bottom: 0; }
+  position: relative; }
   .home .navbar {
     position: absolute;
     top: 65px;
