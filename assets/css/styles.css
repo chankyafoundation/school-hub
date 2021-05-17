@@ -535,10 +535,9 @@ a {
 .courses .courses-carrousel .next-arrow {
   right: 35px; }
 
-.gallery {
-position:relative;
-display:block;
-z-index:1 ; }
+.gallery .carousel {
+    margin-top:20px;
+    position:relative; }
   
   
 .animated {
