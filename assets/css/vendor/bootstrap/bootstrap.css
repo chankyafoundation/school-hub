@@ -5857,7 +5857,6 @@ button.close {
   position: relative;
   width: 100%;
   overflow: hidden;
-  min-height:300px;
 }
 
 .carousel-item {
