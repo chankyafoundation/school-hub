@@ -548,8 +548,15 @@ a {
 .gallery .carousel {
     margin-top:20px;
     position:relative; }
-  
-  
+
+
+.labs-and-amenities .labimg .img{
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+  margin-bottom:20px;
+}
+
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
