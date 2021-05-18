@@ -141,7 +141,7 @@
    window.sr = new ScrollReveal({ 
     reset: false });
 
-    sr.reveal('.about-us', { duration: 200 });
+    sr.reveal('.about-us', { duration: 100 });
     sr.reveal('.statistics', { duration: 400 });
     sr.reveal('.about-us-testimonials', { duration: 400 });
     sr.reveal('.courses', { duration: 400 });
