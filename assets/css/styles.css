@@ -312,7 +312,9 @@ a {
 .horizontal-slide-container .slick-dots {
   top: -13px;
   right: 0;
-  text-align: right; }
+  text-align: right;
+  position: relative;
+  z-index:-1; }
   @media (min-width: 768px) {
     .horizontal-slide-container .slick-dots {
       top: -43px; } }
